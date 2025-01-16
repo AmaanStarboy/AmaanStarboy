@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmaanStarboy
+- 👋 Hi, I’m @Amaan
 - 👀 I’m interested in Programming and android development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
